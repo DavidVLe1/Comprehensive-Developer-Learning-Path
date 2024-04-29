@@ -14,7 +14,7 @@ This document serves as a collaborative guide for aspiring developers to navigat
   7. Learn Terraform tool which is used in Infrastructure as Code (IaC) and know what IaC is.
   8. Look into Github Actions! Does CI/CD.
      - CI/CD is important! When you push your code into main branch, there will be a separate workflow to check test cases and then if it checks out then it deploys it.
-  10. 
+  10. Consider taking CS50x to reinforce what you've learned and strengthen foundations when working with other languages. [CS50x 2024](https://cs50.harvard.edu/x/2024/)
 
 ## Recommended Resources
 
