@@ -16,6 +16,16 @@ This document serves as a collaborative guide for aspiring developers to navigat
      - CI/CD is important! When you push your code into main branch, there will be a separate workflow to check test cases and then if it checks out then it deploys it.
   10. Consider taking CS50x to reinforce what you've learned and strengthen foundations when working with other languages. [CS50x 2024](https://cs50.harvard.edu/x/2024/)
 
+- **Mentor's Advice:**
+  - Have a mindset of always learning.
+  - In Data Structures and Algorithms know the patterns, not just the problem nor solution.
+  - Practice whiteboarding LeetCode, not just in an IDE environment.
+  - Focus more on backend development. Improve the understanding of the backend that Rails circumvents.
+  - Get more exposure to building backends with your own hands, not just helped by Ruby on Rails.
+  - Emphasize learning advanced Git commands and practices used in the work field.
+  - Pay attention to details! Writing good quality maintainable code is essential for someone to easily understand what's going on. Spend extra time learning good practices for certain languages, such as how to use OOP and design patterns for code quality, and become familiar with the process of code reviews.
+
+
 ## Recommended Resources
 
 ### Books:
@@ -24,6 +34,10 @@ This document serves as a collaborative guide for aspiring developers to navigat
 
 ### Online Platforms:
 - **LeetCode:** Practice coding challenges to prepare for interviews.
+### Java Resources:
+- Good resources to learn/improve Java skills:
+  - [JavaTpoint](https://www.javatpoint.com/java-tutorial): Offers comprehensive tutorials on Java, covering all aspects of Java programming.
+  - [Spring Framework Tutorial](https://www.javatpoint.com/spring-tutorial): Very popular for building web applications. Make sure to know core Java and Spring.
 
 ## Stay Updated on Industry Trends
 
